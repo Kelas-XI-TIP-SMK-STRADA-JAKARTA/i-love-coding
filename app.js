@@ -10,6 +10,8 @@ for (let x = 1; x <= 20 ; x++) {
     console.log(x + ' - ' + 'Coding asyik banget, Cuy !');
 }
 
+// pengulangan for kedua
+
 console.log('```');
 console.log('PERULANGAN FOR KEDUA');
 console.log('======================')
@@ -17,6 +19,8 @@ console.log('======================')
 for (let y = 20; y >= 1 ; y--) {
     console.log(y + ' - ' + 'Coding asyik banget, Cuy !');
 }
+
+// pengulangan while pertama
 
 console.log('```');
 console.log('PERULANGAN WHILE PERTAMA');
@@ -28,6 +32,8 @@ while (w <= 20) {
     w += 2;
 }
 
+// pengulangan while kedua
+
 console.log('```');
 console.log('PERULANGAN WHILE KEDUA');
 console.log('======================')
@@ -37,3 +43,4 @@ while (v >= 2) {
     console.log(v + ' - ' + 'Coding itu harus latihan setiap hari !');
     v -= 2;
 }
+
