@@ -24,7 +24,7 @@ console.log('```');
 console.log('PERULANGAN WHILE PERTAMA');
 console.log('======================');
 
-// tanpa if
+// jika tanpa if
 // let w = 2;
 // while (w <= 20) {
 //     console.log(w + ' - ' + 'Coding asyik banget, Cuy!');
@@ -35,8 +35,7 @@ let w = 2;
 while (w <= 20) {
     if (w % 2 === 0) {
         console.log(w + ' - ' + 'Coding asyik banget, Cuy!');
-    }
-    w++;
+    } w++;
 }
 
 // pengulangan while kedua
@@ -45,7 +44,7 @@ console.log('```');
 console.log('PERULANGAN WHILE KEDUA');
 console.log('======================');
 
-// tanpa if
+// jika tanpa if
 // let v = 20;
 // while (v >= 2) {
 //     console.log(v + ' - ' + 'Coding itu harus latihan setiap hari!');
